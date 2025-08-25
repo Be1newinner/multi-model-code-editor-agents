@@ -176,11 +176,12 @@ print(f"Bash script: {result.executable_script}")
 ### Citing Our Work
 ```bibtex
 @misc{multi_agent_code_editor_2025,
-  title={Multi-Agent AI Code Editor: Repository-Level Intelligence for Modern Software Development},
-  author={Vijay Kumar and Contributors},
-  year={2025},
-  howpublished={GitHub Repository},
-  url={[https://github.com/your-repo/multi-agent-code-editor](https://github.com/Be1newinner/multi-model-code-editor-agents)}
+  title        = {Multi-Agent AI Code Editor: Repository-Level Intelligence for Modern Software Development},
+  author       = {Vijay Kumar and contributors},
+  year         = {2025},
+  howpublished = {GitHub repository},
+  url          = {https://github.com/Be1newinner/multi-model-code-editor-agents},
+  note         = {Accessed: 2025-08-25}
 }
 ```
 
