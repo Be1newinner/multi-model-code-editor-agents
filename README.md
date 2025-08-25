@@ -180,7 +180,7 @@ print(f"Bash script: {result.executable_script}")
   author={Vijay Kumar and Contributors},
   year={2025},
   howpublished={GitHub Repository},
-  url={https://github.com/your-repo/multi-agent-code-editor}
+  url={[https://github.com/your-repo/multi-agent-code-editor](https://github.com/Be1newinner/multi-model-code-editor-agents)}
 }
 ```
 
@@ -199,12 +199,6 @@ print(f"Bash script: {result.executable_script}")
 - Deployment safety: **99.9%** successful validations
 
 ## 🌟 Join Our Research Community
-
-### Communication Channels
-- **Discord**: [Join our research server](https://discord.gg/multi-agent-code)
-- **Twitter**: [@MultiAgentCode](https://twitter.com/multiagentcode) 
-- **Weekly Meetings**: Fridays 3PM UTC (Zoom link in Discord)
-- **Office Hours**: Tuesdays & Thursdays 1-2PM UTC
 
 ### Research Funding & Partnerships
 We're actively seeking:
